@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>vid_5_27460.jpg</filename>
+	<size>
+		<width>676</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name/>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>136</xmax>
+			<ymin>197</ymin>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name/>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>229</xmax>
+			<ymin>196</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name/>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>248</xmin>
+			<xmax>281</xmax>
+			<ymin>195</ymin>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

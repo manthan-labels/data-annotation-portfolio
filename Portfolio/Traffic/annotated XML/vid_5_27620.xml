@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>vid_5_27620.jpg</filename>
+	<size>
+		<width>676</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name/>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>302</xmin>
+			<xmax>485</xmax>
+			<ymin>172</ymin>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

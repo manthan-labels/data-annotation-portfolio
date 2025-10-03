@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>cat.235.jpg</filename>
+	<path>C:\Users\Admin\Desktop\Data Labelling\labelImg practice\cat vs dog\dataset\cat.235.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>61</ymin>
+			<xmax>347</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
