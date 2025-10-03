@@ -4,7 +4,7 @@
 - *Tool:* LabelImg  
 - *Classes:* cat, dog  
 - *Annotation Style:* Bounding boxes  
-- *Export Format:* Pascal VOC (XML)  
+- *Export Format:* Pascal VOC (XML), YOLO TXT
 - *Highlights:* Clean, consistent annotations suitable for training object detection models.
 ### 2. Urban Traffic (Video Annotation)
 - *Tool:* CVAT  
