@@ -12,7 +12,6 @@
 - *Annotation Style:* Video annotation with interpolation for efficiency  
 - *Export Formats:* Pascal VOC (XML), YOLO TXT  
 - *Highlights:* Demonstrated handling of both large objects (cars) and small, irregular objects (traffic lights).
-# Urban Traffic Video Annotation (CVAT Project)
 
 ## 3. Multi-Class Traffic Analysis
 This repository contains a **multi‑class traffic video annotation dataset** created using **CVAT**.  
@@ -21,7 +20,7 @@ It demonstrates **dense labeling** with ~350 annotations across 13 frames, makin
 
 ---
 
-# Dataset Details
+ Dataset Details
 - **Frames Annotated**: 13  
 - **Total Annotations**: ~350 bounding boxes  
 - **Classes**:  
@@ -33,7 +32,7 @@ It demonstrates **dense labeling** with ~350 annotations across 13 frames, makin
 
 ---
 
-# Export Formats
+ Export Formats
 Annotations are provided in multiple formats:
 - **Pascal VOC (XML)** → Native CVAT export  
 - **YOLOv8 (TXT)** → Converted locally from VOC 
