@@ -1,5 +1,5 @@
 # data-annotation-portfolio
-## Overview: This repository showcases two sample annotation projects demonstrating my ability to create high‑quality datasets for computer vision tasks.
+## Overview: This repository showcases three sample annotation projects demonstrating my ability to create high‑quality datasets for computer vision tasks.
 ### 1. Cats vs Dogs (Image Annotation)
 - *Tool:* LabelImg  
 - *Classes:* cat, dog  
